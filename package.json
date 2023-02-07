@@ -13,7 +13,7 @@
   },
   "main": "lib/index.js",
   "dependencies": {
-    "bunyan": "^1.8.12",
+    "bunyan": "^1.8.15",
     "lodash.isnumber": "^3.0.3"
   }
 }
