@@ -7,7 +7,7 @@ node-rdpjs is a pure implementation of the Microsoft RDP (Remote Desktop Protoco
 
 [added]
 1. crypto.createCredentials is not a function Error solved By 'https://github.com/t-system/node-rdpjs.git'
-2. updateDesktopSize method
+2. updateDesktopSize method - It's not done yet. In development
 
 ## Install
 
