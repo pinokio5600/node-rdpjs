@@ -5,6 +5,10 @@ Remote Desktop Protocol for Node.js
 
 node-rdpjs is a pure implementation of the Microsoft RDP (Remote Desktop Protocol) protocol (client and server side). node-rdpjs support only SSL security layer.
 
+[added]
+1. crypto.createCredentials is not a function Error solved By 'https://github.com/t-system/node-rdpjs.git'
+2. rdp screen resize method
+
 ## Install
 
 You can install last release node-rdpjs through npm :
